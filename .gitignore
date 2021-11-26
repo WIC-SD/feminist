@@ -1,0 +1,6 @@
+# 编译文件
+site/*
+
+# LaTeX
+docs/img/meme/magick/*
+slides/.temp/*
