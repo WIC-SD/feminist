@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: 中国当代的女性权利
+
+nav:
+    - 首页: 'index.md'
+    - 目录:
+        - 斗争史: 'post/1.md'
+        - 建设成果: 'post/2.md'
+        - 缺失部分: 'post/3.md'

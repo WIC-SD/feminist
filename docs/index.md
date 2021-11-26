@@ -1,17 +1,7 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# 小组成员
+- 王方良（12132646）
+- 丁子宸（12133006）
+- 高&emsp;继（12132621）
+- 梁钰栋（12132274）
+- 张斌羽（12133171）
+- 邓伟豪（12132195）
