@@ -5,13 +5,19 @@
 %   hideallsubsections,   % hide all subsections
 %   left,                 % right of left position of sidebar (default is right)
     hidetitle,            % hide the (short) title in the sidebar
-    width=1.5cm,            % width of the sidebar (default is 2 cm)
+    width=2cm,            % width of the sidebar (default is 2 cm)
     shownavsym,           % show the navigation symbols
 ]{Namkeen}
 
+\usepackage{ctex}
+    % https://hoblovski.github.io/2019/04/05/CTeX-和生僻字的故事.html
+    % http://samwhelp.github.io/blog/read/linux/ubuntu/font/font-noto/
+    % https://cdmana.com/2021/08/20210816050749464e.html
+    \setCJKmainfont[BoldFont=Noto Sans CJK SC Bold]{Noto Sans CJK SC Regular}
 \usepackage{graphicx, float}
 \usepackage[backend=biber, style=gb7714-2015, gbpub=false]{biblatex}
     \addbibresource[location=local]{reference.bib}
+\usepackage{animate}
 
 \renewcommand*{\bibfont}{\normalfont\scriptsize}
 \setbeamercolor{block body}{bg=structure!10}
