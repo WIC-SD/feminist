@@ -1,5 +1,6 @@
 # 编译文件
 site/*
+Makefile
 
 # LaTeX
 docs/img/meme/magick/*
