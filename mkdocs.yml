@@ -1,9 +1,5 @@
 site_name: 中国当代的女性权利
 
-markdown_extensions:
-  - pymdownx.tasklist:
-      custom_checkbox: true
-
 nav:
     - 首页: 'index.md'
     - 目录:
